@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    list-style: none;
+}
+
+.home {
+    order: -1;
+}
+
+.notifications {
+    order: -1;
+}
